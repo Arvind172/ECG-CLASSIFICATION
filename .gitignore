@@ -1,0 +1,18 @@
+# ================= DATA =================
+*.npy
+*.csv
+*.dat
+RECORDS
+SHA256SUMS.txt
+ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.1/
+# ================= MODELS =================
+*.pt
+*.pkl
+
+# ================= PYTHON =================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ================= STREAMLIT =================
+.streamlit/
